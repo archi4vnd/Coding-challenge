@@ -52,4 +52,4 @@ When you’re done, host it somewhere (e.g. on Amazon EC2, Heroku, Google AppEng
 How will we review?
 -------------------
 
-[Guidelines can be found here](readme.md)
+[Guidelines can be found here](README.md)
