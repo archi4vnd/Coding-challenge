@@ -61,4 +61,4 @@ Bonus point (these items are optional):
 Coding Challenge
 ----------------
 
-[Guidelines can be found here.](coding_challenge.md)
+[Guidelines can be found here.](guidelines.md)
